@@ -1,4 +1,8 @@
 module.exports = [
+
+  'en',
+  'zh-CN',
+  'zh-TW',
   'af-ZA',
   'ar',
   'bg',
@@ -8,7 +12,6 @@ module.exports = [
   'de',
   'ee',
   'el',
-  'en',
   'es',
   'fa',
   'fi',
@@ -42,6 +45,4 @@ module.exports = [
   'ua',
   'ug-CN',
   'vi',
-  'zh-CN',
-  'zh-TW'
 ]

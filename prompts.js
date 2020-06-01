@@ -19,7 +19,7 @@ module.exports = [
     default: false,
   },
   {
-    type: 'list',
+    type: 'checkbox',
     name: 'lang',
     message: 'Choose the locale you want to load',
     choices: localeList.map(locale => ({
